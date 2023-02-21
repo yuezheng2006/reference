@@ -20,7 +20,7 @@ Getting Started
 <?php // begin with a PHP open tag.
 
 echo "Hello World\n";
-print("Hello quickref.me");
+print("Hello ref.yuezheng2006.cc");
 
 ?>
 ```
@@ -50,7 +50,7 @@ See: [Types](#php-types)
 
 ### Strings
 ```php
-$url = "quickref.me";
+$url = "ref.yuezheng2006.cc";
 echo "I'm learning PHP at $url";
 
 // Concatenate strings

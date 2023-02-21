@@ -644,7 +644,7 @@ Rust Functions
 ```rust
 
 fn print_message(){
-  println!("Hello, QuickRef.ME!");
+  println!("Hello, Ref!");
 }
 
 fn main(){

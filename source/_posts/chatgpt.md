@@ -91,12 +91,12 @@ Getting Started
 - **Change the CSS of a line of code**
     ``` {.wrap}
     Update the CSS for this line to change the font color to blue?
-    <p class="example">Hello, QuickRef.ME!</p>
+    <p class="example">Hello, Ref!</p>
     ```
 - **Change the HTML of a line of code**
     ``` {.wrap}
     Add a class of "header" to this header tag?
-    <h1>Hello, QuickRef.ME!</h1>
+    <h1>Hello, Ref!</h1>
     ```
 {.collapsible}
 
@@ -130,7 +130,7 @@ Getting Started
 - **Extract email address from text**
     ``` {.wrap}
     Extract all email addresses for me: 
-    Sed sit amet sodales tom@gmail.com, at jack@quickref.me enim. 18261@outlook.com ut eros 
+    Sed sit amet sodales tom@gmail.com, at jack@Ref enim. 18261@outlook.com ut eros 
     ```
 {.collapsible}
 

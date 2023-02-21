@@ -133,7 +133,7 @@ Mitmproxy Filter
 
 ---
 
-- [RegEX cheatsheet](/regex) _(quickref.me)_
+- [RegEX cheatsheet](/regex) _(ref.yuezheng2006.cc)_
 
 The regex are Python-style, it can be specified as quoted strings
 

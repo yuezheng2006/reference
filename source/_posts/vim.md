@@ -33,7 +33,7 @@ Getting Started
 │  │  ││ │ ┌── b      e ─┐ │ │  ││    │
 │  │  ││ │ │  ┌h      l┐ │ │ │  ││    │
 ▽  ▽  ▽▽ ▽ ▽  ▽▼      ▼▽ ▽ ▽ ▽  ▽▽    ▽
-   echo "A cheatsheet from quickref.me"
+   echo "A cheatsheet from ref.yuezheng2006.cc"
 ```
 #### Up-down motions
 ```bash
@@ -46,7 +46,7 @@ Getting Started
    │ │       └─▷    
    │ │ ┌───┬───▷ print("Welcome")
 G gg H M L k j ▶ print("to")
-│        │   └─▷ print("quickref.me")
+│        │   └─▷ print("ref.yuezheng2006.cc")
 │        │       print("/vim")
 │        │     
 │        └─────▷ 

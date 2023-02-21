@@ -492,7 +492,7 @@ for (int n : {1, 2, 3, 4, 5}) {
 ---
 
 ```cpp
-std::string hello = "QuickRef.ME";
+std::string hello = "Ref";
 for (char c: hello)
 {
     std::cout << c << " ";

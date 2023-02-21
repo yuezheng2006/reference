@@ -104,7 +104,7 @@ The same as `JSON` below 👇
 
 ```ini
 [section]
-domain = quickref.me
+domain = ref.yuezheng2006.cc
 [section.subsection]
 foo = bar
 ```
@@ -114,7 +114,7 @@ The same as `JSON` below 👇
 ```js
 {
   "section": {
-    "domain": "quickref.me"
+    "domain": "ref.yuezheng2006.cc"
     "subsection": {
       "foo": "bar"
     }
@@ -126,7 +126,7 @@ Nest to previous section (shorthand)
 
 ```ini
 [section]
-domain = quickref.me
+domain = ref.yuezheng2006.cc
 [.subsection]
 foo = bar
 ```
@@ -158,7 +158,7 @@ sequence | meaning
 
 ```ini
 [section]
-domain = quickref.me
+domain = ref.yuezheng2006.cc
 array[]=first value
 array[]=second value
 ```
@@ -168,7 +168,7 @@ The same as `JSON` below 👇
 ```js
 {
     "section": {
-        "domain": "quickref.me",
+        "domain": "ref.yuezheng2006.cc",
             "array": [
             "first value",
             "second value"

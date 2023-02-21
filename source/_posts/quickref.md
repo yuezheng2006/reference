@@ -1,5 +1,5 @@
 ---
-title: QuickRef
+title: Ref
 date: 2020-11-25 18:28:43
 background: bg-gradient-to-l from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500
 tags:
@@ -7,7 +7,7 @@ tags:
     - reference
 categories:
     - Other
-intro: This is the magic syntax variant manual that you can use on QuickRef.ME, It's a good practice for contributors.
+intro: This is the magic syntax variant manual that you can use on Ref.ME, It's a good practice for contributors.
 ---
 
 
@@ -33,7 +33,7 @@ Getting Started
 - Send us pull request and chill
 {.marker-timeline}
  
-It's a good practice to refer to the source code of the [QuickRef cheatsheet](https://github.com/Fechin/reference/blob/main/source/_posts/quickref.md).
+It's a good practice to refer to the source code of the [Ref cheatsheet](https://github.com/yuezheng2006/reference/blob/main/source/_posts/quickref.md).
 
 
 
@@ -107,7 +107,7 @@ It's a good practice to refer to the source code of the [QuickRef cheatsheet](ht
 - [Paragraph Variants](#paragraph-variants)
 - [Cards Example](#cards-example)
 
-All the magic variants supported by QuickRef.ME
+All the magic variants supported by Ref
 
 
 ### Create source/_posts/demo.md

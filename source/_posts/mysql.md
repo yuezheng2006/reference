@@ -951,4 +951,4 @@ MySQL Functions & Operators
 
 Also see {.cols-1}
 --------
-- [Regex in MySQL](/regex#regex-in-mysql) _(quickref.me)_
+- [Regex in MySQL](/regex#regex-in-mysql) _(ref.yuezheng2006.cc)_

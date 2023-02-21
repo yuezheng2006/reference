@@ -43,7 +43,7 @@ int num = 5;
 float floatNum = 5.99f;
 char letter = 'D';
 boolean bool = true;
-String site = "quickref.me";
+String site = "ref.yuezheng2006.cc";
 ```
 
 ### Primitive Data Types {.row-span-2}
@@ -76,7 +76,7 @@ See: [Strings](#java-strings)
 
 ### Loops
 ```java
-String word = "QuickRef";
+String word = "Ref";
 for (char c: word.toCharArray()) {
   System.out.print(c + "-");
 }
@@ -183,7 +183,7 @@ StringBuilder sb = new StringBuilder(10);
 └───┴───┴───┴───┴───┴───┴───┴───┴───┘
 0   1   2   3   4   5   6   7   8   9
 ```
-sb.append("QuickRef");
+sb.append("Ref");
 ```java
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┐
 | Q | u | i | c | k | R | e | f |   |
@@ -215,8 +215,8 @@ sb.append("!");
 
 ### Comparison
 ```java
-String s1 = new String("QuickRef"); 
-String s2 = new String("QuickRef"); 
+String s1 = new String("Ref"); 
+String s2 = new String("Ref"); 
 
 s1 == s2          // false
 s1.equals(s2)     // true

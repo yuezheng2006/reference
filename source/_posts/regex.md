@@ -19,13 +19,13 @@ Getting Started
 
 This is a quick cheat sheet to getting started with regular expressions.
 
-- [Regex in Python](#regex-in-python) _(quickref.me)_
-- [Regex in JavaScript](#regex-in-javascript) _(quickref.me)_
-- [Regex in PHP](#regex-in-php) _(quickref.me)_
-- [Regex in Java](#regex-in-java) _(quickref.me)_
-- [Regex in MySQL](#regex-in-mysql) _(quickref.me)_
-- [Regex in Vim](/vim#search-and-replace) _(quickref.me)_
-- [Regex in Emacs](/emacs#search) _(quickref.me)_
+- [Regex in Python](#regex-in-python) _(Ref)_
+- [Regex in JavaScript](#regex-in-javascript) _(Ref)_
+- [Regex in PHP](#regex-in-php) _(Ref)_
+- [Regex in Java](#regex-in-java) _(Ref)_
+- [Regex in MySQL](#regex-in-mysql) _(Ref)_
+- [Regex in Vim](/vim#search-and-replace) _(Ref)_
+- [Regex in Emacs](/emacs#search) _(Ref)_
 - [Online regex tester](https://regex101.com/) _(regex101.com)_
 {.cols-2 .marker-round}
 
@@ -704,16 +704,16 @@ Regex in PHP
 $str = "Visit Microsoft!";
 $regex = "/microsoft/i";
 
-// Output: Visit QuickRef!
-echo preg_replace($regex, "QuickRef", $str); 
+// Output: Visit Ref!
+echo preg_replace($regex, "Ref", $str); 
 ```
 
 
 
 ### preg_match
 ```php 
-$str = "Visit QuickRef";
-$regex = "#quickref#i";
+$str = "Visit Ref";
+$regex = "#Ref#i";
 
 // Output: 1
 echo preg_match($regex, $str);
